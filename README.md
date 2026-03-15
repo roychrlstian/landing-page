@@ -31,11 +31,13 @@ This project helped reinforce my understanding of:
 
 ## Project Structure
 
+```
 landing-page/
 │
 ├── index.html
 ├── style.css
 └── images/
+```
 
 ## What I Learned
 
