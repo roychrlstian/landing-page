@@ -35,8 +35,7 @@ This project helped reinforce my understanding of:
 landing-page/
 │
 ├── index.html
-├── style.css
-└── images/
+└── style.css
 ```
 
 ## What I Learned
