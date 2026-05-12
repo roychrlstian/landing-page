@@ -218,3 +218,19 @@ main {
     border-radius: 10px;
     cursor: pointer;
 }
+
+.site-footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    padding-top: 16px;
+    color: #ffff;
+    font-size: 14px;
+}
+
+.github-mark {
+    width: 18px;
+    height: 18px;
+    flex: 0 0 auto;
+}
